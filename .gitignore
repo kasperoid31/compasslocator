@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+crash-reports/
+
+# Local config
+config/memoryleak_local.json
