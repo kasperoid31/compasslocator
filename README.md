@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 [![Modrinth](https://img.shields.io/modrinth/dt/compasslocator?style=for-the-badge&logo=modrinth&logoColor=white&color=00AF5C&label=downloads)](https://modrinth.com/plugin/compasslocator)
-[![Telegram](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pro100chnl)
+[![Telegram](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prostoimpery)
 
 </div>
 
@@ -159,7 +159,7 @@ Configurable. If you enable the option, the compass stays in your inventory even
 
 [![Modrinth Plugin](https://img.shields.io/badge/Modrinth-Plugin-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/compasslocator)
 [![Modrinth Mod](https://img.shields.io/badge/Modrinth-Mod-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/compasslocator-kasperoid)
-[![Telegram](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pro100chnl)
+[![Telegram](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prostoimpery)
 
 ---
 
