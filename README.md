@@ -2,12 +2,12 @@
 
 <img src="https://cdn.modrinth.com/data/cached_images/028c729a257b8817fc93c931f769dab6f3efa248.png" alt="CompassLocator Banner" width="100%">
 
-![Version](https://img.shields.io/badge/version-3.5.0-1E90FF?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.6.0-1E90FF?style=for-the-badge)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-4C9A2A?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Paper%20%7C%20Spigot%20%7C%20Purpur-FF6B35?style=for-the-badge)
 ![Fabric](https://img.shields.io/badge/Fabric-1.21.6+-DBD0B4?style=for-the-badge&logo=fabric&logoColor=black)
 ![Forge](https://img.shields.io/badge/Forge-1.21.6+-orange?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 [![Modrinth](https://img.shields.io/modrinth/dt/compasslocator?style=for-the-badge&logo=modrinth&logoColor=white&color=00AF5C&label=downloads)](https://modrinth.com/plugin/compasslocator)
 [![Telegram](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pro100chnl)
