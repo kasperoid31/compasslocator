@@ -218,7 +218,7 @@ Configurable. If you enable the option, the compass stays in your inventory even
 [![Modrinth](https://img.shields.io/badge/Modrinth-Plugin-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/compasslocator)
 [![Hangar](https://img.shields.io/badge/Hangar-Download-1E90FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzAuMSwzMC4xbDE5LjgsMTkuOEwzMC4xLDY5LjdsLTEwLTEwTDUwLDMwLjFsMTAsMTBsLTEwLDEwTDY5LjcsMzAuMXoiLz48L3N2Zz4=)](https://hangar.papermc.io/kasperoid/CompassLocator)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Plugin-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/bukkit-plugins/compasslocator)
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-Plugin-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/resources/compasslocator)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-Plugin-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/resources/compasslocator.133747/)
 
 ### Mod (Client)
 [![Modrinth](https://img.shields.io/badge/Modrinth-Mod-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/compasslocator-kasperoid)
